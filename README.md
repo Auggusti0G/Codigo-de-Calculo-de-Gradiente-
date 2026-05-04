@@ -1,0 +1,1 @@
+# Codigo-de-Calculo-de-Gradiente-
