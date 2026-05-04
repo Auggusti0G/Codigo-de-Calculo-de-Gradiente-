@@ -1,6 +1,6 @@
 # Codigo-de-Calculo-de-Gradiente-
 
-import math
+<p>import math
 
 # Função original
 def f(x, y):
@@ -26,3 +26,4 @@ g = gradiente(x, y)
 
 print("Gradiente em (x, y) =", (x, y))
 print("Resultado:", g)
+</p>
